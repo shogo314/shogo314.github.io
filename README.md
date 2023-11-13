@@ -1,2 +1,28 @@
-# shogo314.github.io
-for pages
+# 自己紹介
+大阪大学の学生です。
+
+# 各種アカウント
+## SNS and etc.
+X: [shogo3142](https://twitter.com/shogo3142)
+GitHub: [shogo314](https://github.com/shogo314)
+はてなブログ: [shogo314](https://shogo314.hatenablog.com/)
+Qiita: [shogo314](https://qiita.com/shogo314)
+
+## 競技プログラミング
+AtCoder: [shogo314](https://atcoder.jp/users/shogo314)
+Codeforces: [shogo314](https://codeforces.com/profile/shogo314)
+CodeChef: [shogo314](https://www.codechef.com/users/shogo314)
+LeetCode: [shogo314](https://leetcode.com/shogo314/)
+yukicoder: [shogo314](https://yukicoder.me/users/18946)
+CPython.uz: [shogo314](https://cpython.uz/users/user/shogo314)
+DMOJ: [shogo314](https://dmoj.ca/user/shogo314)
+GeeksforGeeks: [shogo314](https://auth.geeksforgeeks.org/user/shogo314/)
+洛谷: [shogo314](https://www.luogu.com.cn/user/1193048)
+AcWing: [shogo314](https://www.acwing.com/user/myspace/index/380439/)
+Toph: [shogo314](https://toph.co/u/shogo314)
+
+CLIST: [shogo314](https://clist.by/coder/shogo314/)
+
+## その他
+OnlineMathContest: [shogo314](https://onlinemathcontest.com/users/shogo314)
+Shitforces: [shogo314](https://shitforces.herokuapp.com/account/shogo314)
