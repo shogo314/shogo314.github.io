@@ -21,6 +21,7 @@ GeeksforGeeks: [shogo314](https://auth.geeksforgeeks.org/user/shogo314/)
 洛谷: [shogo314](https://www.luogu.com.cn/user/1193048)  
 AcWing: [shogo314](https://www.acwing.com/user/myspace/index/380439/)  
 Toph: [shogo314](https://toph.co/u/shogo314)  
+solved.ac: [shogo314](https://solved.ac/en/profile/shogo314)  
 Library Checker: [shogo314](https://judge.yosupo.jp/user/shogo314)
 
 CLIST: [shogo314](https://clist.by/coder/shogo314/)
