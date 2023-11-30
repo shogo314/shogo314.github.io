@@ -7,6 +7,7 @@ X: [shogo3142](https://twitter.com/shogo3142)
 GitHub: [shogo314](https://github.com/shogo314)  
 はてなブログ: [shogo314](https://shogo314.hatenablog.com/)  
 Qiita: [shogo314](https://qiita.com/shogo314)
+YouTube: [shogo3142](https://www.youtube.com/@shogo3142)
 
 ## 競技プログラミング
 AtCoder: [shogo314](https://atcoder.jp/users/shogo314)  
