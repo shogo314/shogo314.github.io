@@ -28,6 +28,8 @@ Library Checker: [shogo314](https://judge.yosupo.jp/user/shogo314)
 CodinGame: [shogo314](https://www.codingame.com/profile/d4bc5554ab769a08a4f47ba630b7f7b79565785)  
 kaggle: [shogo314](https://www.kaggle.com/shogo314)  
 qookbook: [shogo314](https://www.qookbook.net/participants#shogo314:~:text=1-,shogo314,-0)  
+QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
+CSES: [shogo314](https://cses.fi/user/217582/)  
 
 CLIST: [shogo314](https://clist.by/coder/shogo314/)
 
@@ -35,3 +37,4 @@ CLIST: [shogo314](https://clist.by/coder/shogo314/)
 Project Euler: [shogo314](https://projecteuler.net/progress=shogo314)  
 OnlineMathContest: [shogo314](https://onlinemathcontest.com/users/shogo314)  
 Shitforces: [shogo314](https://shitforces.herokuapp.com/account/shogo314)  
+Herbert Online Judge: [shogo314](http://herbert.tealang.info/user.php?id=shogo314)  
