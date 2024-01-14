@@ -27,6 +27,7 @@ MojaCoder: [shogo314](https://mojacoder.app/users/shogo314)
 Library Checker: [shogo314](https://judge.yosupo.jp/user/shogo314)  
 CodinGame: [shogo314](https://www.codingame.com/profile/d4bc5554ab769a08a4f47ba630b7f7b79565785)  
 kaggle: [shogo314](https://www.kaggle.com/shogo314)  
+qookbook: [shogo314](https://www.qookbook.net/participants#shogo314:~:text=1-,shogo314,-0)  
 
 CLIST: [shogo314](https://clist.by/coder/shogo314/)
 
