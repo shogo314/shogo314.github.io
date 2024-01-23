@@ -15,7 +15,7 @@ Codeforces: [shogo314](https://codeforces.com/profile/shogo314)
 CodeChef: [shogo314](https://www.codechef.com/users/shogo314)  
 LeetCode: [shogo314](https://leetcode.com/shogo314/)  
 yukicoder: [shogo314](https://yukicoder.me/users/18946)  
-CPython.uz: [shogo314](https://cpython.uz/users/user/shogo314)  
+KEP: [shogo314](https://kep.uz/users/user/shogo314)  
 DMOJ: [shogo314](https://dmoj.ca/user/shogo314)  
 GeeksforGeeks: [shogo314](https://auth.geeksforgeeks.org/user/shogo314/)  
 洛谷: [shogo314](https://www.luogu.com.cn/user/1193048)  
@@ -27,9 +27,11 @@ MojaCoder: [shogo314](https://mojacoder.app/users/shogo314)
 Library Checker: [shogo314](https://judge.yosupo.jp/user/shogo314)  
 CodinGame: [shogo314](https://www.codingame.com/profile/d4bc5554ab769a08a4f47ba630b7f7b79565785)  
 kaggle: [shogo314](https://www.kaggle.com/shogo314)  
-qookbook: [shogo314](https://www.qookbook.net/participants#shogo314:~:text=1-,shogo314,-0)  
+qookbook: [shogo314](https://www.qookbook.net/participants/#shogo314:~:text=58-,shogo314,-4590842)  
 QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
+PythonCode.Club [shogo314]()  
 CSES: [shogo314](https://cses.fi/user/217582/)  
+exercism: [shogo314](https://exercism.org/profiles/shogo314)  
 
 CLIST: [shogo314](https://clist.by/coder/shogo314/)
 
@@ -38,3 +40,7 @@ Project Euler: [shogo314](https://projecteuler.net/progress=shogo314)
 OnlineMathContest: [shogo314](https://onlinemathcontest.com/users/shogo314)  
 Shitforces: [shogo314](https://shitforces.herokuapp.com/account/shogo314)  
 Herbert Online Judge: [shogo314](http://herbert.tealang.info/user.php?id=shogo314)  
+
+# 競技プログラミングで得た賞品・賞金
+2023-12-01 [HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）](https://atcoder.jp/contests/ahc027) 273位 参加プレゼント アマゾンギフトカード1000円  
+2022-07-08 [ICPC 2022 国内予選](https://icpc.iisf.or.jp/2022-yokohama/domestic-results/) handai_C 111位 レトリバ賞 Tシャツ / USB Type C変換コネクタ / ステッカー / クリアファイル  
