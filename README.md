@@ -7,7 +7,8 @@ X: [shogo3142](https://twitter.com/shogo3142)
 GitHub: [shogo314](https://github.com/shogo314)  
 はてなブログ: [shogo314](https://shogo314.hatenablog.com/)  
 Qiita: [shogo314](https://qiita.com/shogo314)  
-YouTube: [shogo3142](https://www.youtube.com/@shogo3142)
+YouTube: [shogo3142](https://www.youtube.com/@shogo3142)  
+misskey.kyoupro.com: [shogo314](https://misskey.kyoupro.com/@shogo314)  
 
 ## プログラミング
 AtCoder: [shogo314](https://atcoder.jp/users/shogo314)  
@@ -27,9 +28,10 @@ MojaCoder: [shogo314](https://mojacoder.app/users/shogo314)
 Library Checker: [shogo314](https://judge.yosupo.jp/user/shogo314)  
 CodinGame: [shogo314](https://www.codingame.com/profile/d4bc5554ab769a08a4f47ba630b7f7b79565785)  
 kaggle: [shogo314](https://www.kaggle.com/shogo314)  
-qookbook: [shogo314](https://www.qookbook.net/participants/#shogo314:~:text=58-,shogo314,-4590842)  
+qookbook: shogo314  
 QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
-PythonCode.Club [shogo314]()  
+PythonCode.Club: [shogo314]()  
+TOPSIC SQL CONTEST: shogo314  
 CSES: [shogo314](https://cses.fi/user/217582/)  
 exercism: [shogo314](https://exercism.org/profiles/shogo314)  
 
@@ -40,6 +42,7 @@ Project Euler: [shogo314](https://projecteuler.net/progress=shogo314)
 OnlineMathContest: [shogo314](https://onlinemathcontest.com/users/shogo314)  
 Shitforces: [shogo314](https://shitforces.herokuapp.com/account/shogo314)  
 Herbert Online Judge: [shogo314](http://herbert.tealang.info/user.php?id=shogo314)  
+Markov Algorithm Online: [shogo314](https://mao.snuke.org/users/shogo314)  
 
 # 競技プログラミングで得た賞品・賞金
 2023-12-01 [HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）](https://atcoder.jp/contests/ahc027) 273位 参加プレゼント アマゾンギフトカード1000円  
