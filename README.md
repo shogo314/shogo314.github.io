@@ -28,6 +28,7 @@ AIZU ONLINE JUDGE: [shogo314](https://onlinejudge.u-aizu.ac.jp/status/users/shog
 MojaCoder: [shogo314](https://mojacoder.app/users/shogo314)  
 Library Checker: [shogo314](https://judge.yosupo.jp/user/shogo314)  
 CodinGame: [shogo314](https://www.codingame.com/profile/d4bc5554ab769a08a4f47ba630b7f7b79565785)  
+VNOJ: [shogo314](https://oj.vnoi.info/user/shogo314)  
 kaggle: [shogo314](https://www.kaggle.com/shogo314)  
 qookbook: shogo314  
 QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
