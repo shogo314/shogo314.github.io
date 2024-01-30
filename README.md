@@ -17,7 +17,7 @@ CodeChef: [shogo314](https://www.codechef.com/users/shogo314)
 LeetCode: [shogo314](https://leetcode.com/shogo314/)  
 yukicoder: [shogo314](https://yukicoder.me/users/18946)  
 Topcoder: [shogo314](https://profiles.topcoder.com/shogo314)  
-KEP: [shogo314](https://kep.uz/users/user/shogo314)  
+KEP.uz: [shogo314](https://kep.uz/users/user/shogo314)  
 DMOJ: [shogo314](https://dmoj.ca/user/shogo314)  
 GeeksforGeeks: [shogo314](https://auth.geeksforgeeks.org/user/shogo314/)  
 洛谷: [shogo314](https://www.luogu.com.cn/user/1193048)  
@@ -33,7 +33,7 @@ Library Checker: [shogo314](https://judge.yosupo.jp/user/shogo314)
 CodinGame: [shogo314](https://www.codingame.com/profile/d4bc5554ab769a08a4f47ba630b7f7b79565785)  
 VNOJ: [shogo314](https://oj.vnoi.info/user/shogo314)  
 kaggle: [shogo314](https://www.kaggle.com/shogo314)  
-qookbook: shogo314  
+Qookbook: shogo314  
 QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
 TOPSIC SQL CONTEST: shogo314  
 CSES: [shogo314](https://cses.fi/user/217582/)  
