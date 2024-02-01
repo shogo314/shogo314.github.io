@@ -9,6 +9,8 @@ GitHub: [shogo314](https://github.com/shogo314)
 Qiita: [shogo314](https://qiita.com/shogo314)  
 YouTube: [shogo3142](https://www.youtube.com/@shogo3142)  
 misskey.kyoupro.com: [shogo314](https://misskey.kyoupro.com/@shogo314)  
+misskey.io: [shogo314](https://misskey.io/@shogo314)  
+connpass: [shogo3142](https://connpass.com/user/shogo3142/)  
 
 ## プログラミング
 AtCoder: [shogo314](https://atcoder.jp/users/shogo314)  
@@ -29,6 +31,7 @@ Newton School: [shogo314](https://my.newtonschool.co/user/shogo314)
 Coding Ninjas: [shogo314](https://www.codingninjas.com/studio/profile/shogo314)  
 AIZU ONLINE JUDGE: [shogo314](https://onlinejudge.u-aizu.ac.jp/status/users/shogo314)  
 MojaCoder: [shogo314](https://mojacoder.app/users/shogo314)  
+MOFE: shogo314  
 Library Checker: [shogo314](https://judge.yosupo.jp/user/shogo314)  
 CodinGame: [shogo314](https://www.codingame.com/profile/d4bc5554ab769a08a4f47ba630b7f7b79565785)  
 VNOJ: [shogo314](https://oj.vnoi.info/user/shogo314)  
