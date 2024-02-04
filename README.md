@@ -29,6 +29,8 @@ solved.ac: [shogo314](https://solved.ac/en/profile/shogo314)
 PythonCode.Club: [shogo314](https://pythoncode.club/user/65aa0ae2ec2e280a43b43daf)  
 Newton School: [shogo314](https://my.newtonschool.co/user/shogo314)  
 Coding Ninjas: [shogo314](https://www.codingninjas.com/studio/profile/shogo314)  
+HackerRank: [shogo314](https://www.hackerrank.com/profile/shogo314)  
+HackerEarth: [shogo314](https://www.hackerearth.com/@shogo314)  
 AIZU ONLINE JUDGE: [shogo314](https://onlinejudge.u-aizu.ac.jp/status/users/shogo314)  
 MojaCoder: [shogo314](https://mojacoder.app/users/shogo314)  
 MOFE: shogo314  
