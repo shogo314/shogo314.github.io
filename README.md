@@ -10,6 +10,7 @@ Qiita: [shogo314](https://qiita.com/shogo314)
 YouTube: [shogo3142](https://www.youtube.com/@shogo3142)  
 misskey.kyoupro.com: [shogo314](https://misskey.kyoupro.com/@shogo314)  
 misskey.io: [shogo314](https://misskey.io/@shogo314)  
+Bluesky: [shogo314.bsky.social](https://bsky.app/profile/shogo314.bsky.social)  
 connpass: [shogo3142](https://connpass.com/user/shogo3142/)  
 
 ## プログラミング
