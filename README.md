@@ -12,6 +12,7 @@ misskey.kyoupro.com: [shogo314](https://misskey.kyoupro.com/@shogo314)
 misskey.io: [shogo314](https://misskey.io/@shogo314)  
 Bluesky: [shogo314.bsky.social](https://bsky.app/profile/shogo314.bsky.social)  
 connpass: [shogo3142](https://connpass.com/user/shogo3142/)  
+Telegram: [shogo314](https://t.me/shogo314)  
 
 ## プログラミング
 AtCoder: [shogo314](https://atcoder.jp/users/shogo314)  
@@ -43,6 +44,7 @@ CodeDrills: [shogo314](https://codedrills.io/profiles/shogo314)
 kaggle: [shogo314](https://www.kaggle.com/shogo314)  
 Qookbook: shogo314  
 QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
+TechFUL: shogo314  
 TOPSIC SQL CONTEST: shogo314  
 CSES: [shogo314](https://cses.fi/user/217582/)  
 exercism: [shogo314](https://exercism.org/profiles/shogo314)  
@@ -58,5 +60,7 @@ Markov Algorithm Online: [shogo314](https://mao.snuke.org/users/shogo314)
 CpawCTF: shogo314  
 
 # 競技プログラミングで得た賞品・賞金
+2024-05-05 [KEP Contest #5](https://kep.uz/competitions/contests/contest/376) 3位 10USDT  
+2024-03-24 [KEP Contest #4](https://kep.uz/competitions/contests/contest/371) 3位 12USDT  
 2023-12-01 [HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）](https://atcoder.jp/contests/ahc027) 273位 参加プレゼント アマゾンギフトカード1000円  
 2022-07-08 [ICPC 2022 国内予選](https://icpc.iisf.or.jp/2022-yokohama/domestic-results/) handai_C 111位 レトリバ賞 Tシャツ / USB Type C変換コネクタ / ステッカー / クリアファイル  
