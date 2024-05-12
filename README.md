@@ -60,6 +60,7 @@ Markov Algorithm Online: [shogo314](https://mao.snuke.org/users/shogo314)
 CpawCTF: shogo314  
 
 # 競技プログラミングで得た賞品・賞金
+2024-05-05 [Hack it #7](https://kep.uz/competitions/contests/contest/381) 2位 15USDT  
 2024-05-05 [KEP Contest #5](https://kep.uz/competitions/contests/contest/376) 3位 10USDT  
 2024-03-24 [KEP Contest #4](https://kep.uz/competitions/contests/contest/371) 3位 12USDT  
 2023-12-01 [HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）](https://atcoder.jp/contests/ahc027) 273位 参加プレゼント アマゾンギフトカード1000円  
