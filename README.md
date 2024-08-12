@@ -15,6 +15,7 @@ Bluesky: [shogo314.bsky.social](https://bsky.app/profile/shogo314.bsky.social)
 connpass: [shogo3142](https://connpass.com/user/shogo3142/)  
 Telegram: [shogo314](https://t.me/shogo314)  
 Greasy Fork: [1322710-shogo314](https://greasyfork.org/ja/users/1322710-shogo314)  
+TellPro: [shogo314](https://www.tellpro.net/shogo314)  
 
 ## プログラミング
 AtCoder: [shogo314](https://atcoder.jp/users/shogo314)  
@@ -63,6 +64,7 @@ Markov Algorithm Online: [shogo314](https://mao.snuke.org/users/shogo314)
 CpawCTF: shogo314  
 
 # 競技プログラミングで得た賞品・賞金
+2024-08-04 [Weekend Practice #3](https://basecamp.eolymp.com/contests/1vakgi35sp4cd24th3vp7aekqg) 30位 Tシャツ  
 2024-05-05 [Hack it #7](https://kep.uz/competitions/contests/contest/381) 2位 15USDT  
 2024-05-05 [KEP Contest #5](https://kep.uz/competitions/contests/contest/376) 3位 10USDT  
 2024-03-24 [KEP Contest #4](https://kep.uz/competitions/contests/contest/371) 3位 12USDT  
