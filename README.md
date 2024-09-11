@@ -66,6 +66,7 @@ Markov Algorithm Online: [shogo314](https://mao.snuke.org/users/shogo314)
 CpawCTF: shogo314  
 
 # 競技プログラミングで得た賞品・賞金
+2024-08-25 [CPUC Summer Contest](https://kep.uz/competitions/contests/contest/401) 2位 15USDT  
 2024-08-18 [KEP Math Contest #1](https://kep.uz/competitions/contests/contest/398) 2位 15USDT  
 2024-08-04 [Weekend Practice #3](https://basecamp.eolymp.com/contests/1vakgi35sp4cd24th3vp7aekqg) 30位 Tシャツ / ステッカー  
 2024-05-05 [Hack it #7](https://kep.uz/competitions/contests/contest/381) 2位 15USDT  
