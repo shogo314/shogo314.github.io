@@ -48,6 +48,8 @@ VNOJ: [shogo314](https://oj.vnoi.info/user/shogo314)
 TLX: [shogo314](https://tlx.toki.id/profiles/shogo314)  
 CodeDrills: [shogo314](https://codedrills.io/profiles/shogo314)  
 Eolymp: [shogo314](https://basecamp.eolymp.com/ja/users/shogo314)  
+牛客: [shogo314](https://ac.nowcoder.com/acm/contest/profile/635190268)  
+algoleague: [shogo314](https://algoleague.com/profile/shogo314/overview)  
 kaggle: [shogo314](https://www.kaggle.com/shogo314)  
 Qookbook: shogo314  
 QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
