@@ -71,7 +71,9 @@ Markov Algorithm Online: [shogo314](https://mao.snuke.org/users/shogo314)
 CpawCTF: shogo314  
 
 # 競技プログラミングで得た賞品・賞金
+2024-11-27 [TechFUL Coding Battle ～2024年11月回～](https://techful-programming.com/techful/event/6691) 13位 Python賞 アマゾンギフトカード500円  
 2024-10-27 [Single Problem Contest merge_martian_colonies](https://pythoncode.club/problems/merge_martian_colonies) 1位 0.02XMR  
+2024-09-21 [TechFUL 競技プログラミング駅伝 2024](https://ekiden2024.event.techful-programming.com/) kotamanegi_daisuki_club 6位 参加賞 アマゾンギフトカード500円  
 2024-08-25 [CPUC Summer Contest](https://kep.uz/competitions/contests/contest/401) 2位 15USDT  
 2024-08-18 [KEP Math Contest #1](https://kep.uz/competitions/contests/contest/398) 2位 15USDT  
 2024-08-04 [Weekend Practice #3](https://basecamp.eolymp.com/contests/1vakgi35sp4cd24th3vp7aekqg) 30位 Tシャツ / ステッカー  
