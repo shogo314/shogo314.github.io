@@ -82,3 +82,12 @@ CpawCTF: shogo314
 2024-03-24 [KEP Contest #4](https://kep.uz/competitions/contests/contest/371) 3位 12USDT  
 2023-12-01 [HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）](https://atcoder.jp/contests/ahc027) 273位 参加プレゼント アマゾンギフトカード1000円  
 2022-07-08 [ICPC 2022 国内予選](https://icpc.iisf.or.jp/2022-yokohama/domestic-results/) handai_C 111位 レトリバ賞 Tシャツ / USB Type C変換コネクタ / ステッカー / クリアファイル  
+
+# 競技プログラミングの主な戦績
+2024-11-11 [The 2024 ICPC Asia Taichung Regional](https://icpc.global/regionals/finder/Taipei-2025/standings) kotamanegi_marukajiri 24位  
+2024-07-05 [ICPC 2024 国内予選](https://icpc.iisf.or.jp/2024-yokohama/domestic/icpc-2024-result/) kotamanegi_marukajiri 78位  
+2024-03-24 [DDCC2024](https://special.discoveryjapan.jp/campaign/ddcc2024/) 23位  
+2023-11-26 [ICPC 2023 Asia Yokohama Regional](https://icpc.global/regionals/finder/Yokohama-2024/standings) KSS908111314 30位  
+2023-07-07 [ICPC 2023 国内予選](https://icpc.iisf.or.jp/2023-yokohama/domestic/icpc-2023-result/) KSS908111314 17位  
+2022-07-08 [ICPC 2022 国内予選](https://icpc.iisf.or.jp/2022-yokohama/domestic-results/) handai_C 111位  
+2021-11-05 [ICPC 2021 国内予選](https://icpc.iisf.or.jp/2021-yokohama/standings/) Benzenediazonium chloride 89位  
