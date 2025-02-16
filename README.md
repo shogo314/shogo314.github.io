@@ -63,6 +63,7 @@ TechFUL: shogo314
 TOPSIC SQL CONTEST: shogo314  
 CSES: [shogo314](https://cses.fi/user/217582/)  
 beecrowd: [shogo314](https://judge.beecrowd.com/en/profile/1059516)  
+Algotester: [shogo314](https://algotester.com/en/Account/Display/722090)  
 exercism: [shogo314](https://exercism.org/profiles/shogo314)  
 
 CLIST: [shogo314](https://clist.by/coder/shogo314/)
