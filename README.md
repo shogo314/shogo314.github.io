@@ -1,5 +1,5 @@
 # 自己紹介
-大阪大学の学生です。
+奈良先端科学技術大学院大学の学生です。
 
 # 宣伝
 - [競プロ多言語コミュニティ](https://discord.com/invite/3DdtAvb3vS)
@@ -64,6 +64,7 @@ TOPSIC SQL CONTEST: shogo314
 CSES: [shogo314](https://cses.fi/user/217582/)  
 beecrowd: [shogo314](https://judge.beecrowd.com/en/profile/1059516)  
 Algotester: [shogo314](https://algotester.com/en/Account/Display/722090)  
+Kilonova: [shogo314](https://kilonova.ro/profile/shogo314)  
 exercism: [shogo314](https://exercism.org/profiles/shogo314)  
 
 CLIST: [shogo314](https://clist.by/coder/shogo314/)
@@ -90,6 +91,7 @@ CpawCTF: shogo314
 2022-07-08 [ICPC 2022 国内予選](https://icpc.iisf.or.jp/2022-yokohama/domestic-results/) handai_C 111位 レトリバ賞 Tシャツ / USB Type C変換コネクタ / ステッカー / クリアファイル  
 
 # 競技プログラミングの主な戦績
+2025-03-01 [The 2025 ICPC Asia Pacific Championship](https://icpc.global/regionals/finder/APSEPC-2025/standings) kotamanegi_marukajiri 54位  
 2024-11-11 [The 2024 ICPC Asia Taichung Regional](https://icpc.global/regionals/finder/Taipei-2025/standings) kotamanegi_marukajiri 24位  
 2024-07-05 [ICPC 2024 国内予選](https://icpc.iisf.or.jp/2024-yokohama/domestic/icpc-2024-result/) kotamanegi_marukajiri 78位  
 2024-03-24 [DDCC2024](https://special.discoveryjapan.jp/campaign/ddcc2024/) 23位  
