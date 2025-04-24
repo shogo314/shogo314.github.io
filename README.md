@@ -5,7 +5,7 @@
 - [競プロ多言語コミュニティ](https://discord.com/invite/3DdtAvb3vS)
 いろんなプログラミング言語やマイナー言語に触れてみたい競プロerのためのDiscordサーバーを作りました！
 興味がある方はぜひ参加して、一緒に情報交換しましょう！
-- [ac-library-mojo](ac-library-mojo) を作りました！使ってね
+- [ac-library-mojo](ac-library-mojo) [ac-library](https://github.com/atcoder/ac-library) の Mojo 版を作りました！使ってね
 
 # 各種アカウント
 ## SNS and etc.
