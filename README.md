@@ -5,7 +5,9 @@
 - [競プロ多言語コミュニティ](https://discord.com/invite/3DdtAvb3vS)
 いろんなプログラミング言語やマイナー言語に触れてみたい競プロerのためのDiscordサーバーを作りました！
 興味がある方はぜひ参加して、一緒に情報交換しましょう！
-- [ac-library-mojo](ac-library-mojo) [ac-library](https://github.com/atcoder/ac-library) の Mojo 版を作りました！使ってね
+- [ac-library-mojo](https://shogo314.github.io/ac-library-mojo) [ac-library](https://github.com/atcoder/ac-library) の Mojo 版を作りました！使ってね
+- [ICPC Replay](https://icpc-replay.vercel.app/) ICPCでの順位の時間推移をグラフにする
+- [Rosetta Problems](https://rosetta-problems-dev.vercel.app) 競プロの問題について様々なコンテストサイトのジャッジを教えてくれる
 
 # 各種アカウント
 ## SNS and etc.
@@ -36,7 +38,7 @@ Topcoder: [shogo314](https://profiles.topcoder.com/shogo314)
 KEP.uz: [shogo314](https://kep.uz/users/user/shogo314)  
 DMOJ: [shogo314](https://dmoj.ca/user/shogo314)  
 GeeksforGeeks: [shogo314](https://auth.geeksforgeeks.org/user/shogo314/)  
-洛谷: [shogo314](https://www.luogu.com.cn/user/1193048)  
+<!-- 洛谷: [shogo314](https://www.luogu.com.cn/user/1193048)   -->
 AcWing: [shogo314](https://www.acwing.com/user/myspace/index/380439/)  
 Toph: [shogo314](https://toph.co/u/shogo314)  
 solved.ac: [shogo314](https://solved.ac/ja/profile/shogo314)  
@@ -57,6 +59,7 @@ Eolymp: [shogo314](https://basecamp.eolymp.com/ja/users/shogo314)
 牛客: [shogo314](https://ac.nowcoder.com/acm/contest/profile/635190268)  
 algoleague: [shogo314](https://algoleague.com/profile/shogo314/)  
 CodeAny: [shogo314](https://codeany.org/en/users/shogo314)  
+<!-- Kattis: [shogo314](https://open.kattis.com/users/shogo314)   -->
 kaggle: [shogo314](https://www.kaggle.com/shogo314)  
 Qookbook: shogo314  
 QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
