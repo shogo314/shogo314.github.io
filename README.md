@@ -61,8 +61,8 @@ algoleague: [shogo314](https://algoleague.com/profile/shogo314/)
 CodeAny: [shogo314](https://codeany.org/en/users/shogo314)  
 <!-- Kattis: [shogo314](https://open.kattis.com/users/shogo314)   -->
 Hamako Online Judge: [shogo314](https://hoj.hamako-ths.ed.jp/onlinejudge/users/id/1321)  
-kaggle: [shogo314](https://www.kaggle.com/shogo314)  
 MarisaOJ: [shogo314](https://marisaoj.com/user/shogo314/submissions)  
+kaggle: [shogo314](https://www.kaggle.com/shogo314)  
 Qookbook: shogo314  
 QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
 TechFUL: shogo314  
