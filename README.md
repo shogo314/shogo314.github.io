@@ -8,6 +8,7 @@
 - [ac-library-mojo](https://shogo314.github.io/ac-library-mojo) [ac-library](https://github.com/atcoder/ac-library) の Mojo 版を作りました！使ってね
 - [ICPC Replay](https://icpc-replay.vercel.app/) ICPCでの順位の時間推移をグラフにする
 - [Rosetta Problems](https://rosetta-problems-dev.vercel.app) 競プロの問題について様々なコンテストサイトのジャッジを教えてくれる
+- [Procon Notification](https://procon-notification.vercel.app/) 様々な競技プログラミングコンテストを表示します。日本人向けの [CLIST](https://clist.by/) を作りたい
 
 # 各種アカウント
 ## SNS and etc.
@@ -97,11 +98,12 @@ CpawCTF: shogo314
 2022-07-08 [ICPC 2022 国内予選](https://icpc.iisf.or.jp/2022-yokohama/domestic-results/) handai_C 111位 レトリバ賞 Tシャツ / USB Type C変換コネクタ / ステッカー / クリアファイル  
 
 # 競技プログラミングの主な戦績
+2025-07-04 [ICPC 2025 国内予選](https://icpc.jp/2025/domestic/results/) The Revenge of take000 46位  
 2025-03-01 [The 2025 ICPC Asia Pacific Championship](https://icpc.global/regionals/finder/APSEPC-2025/standings) kotamanegi_marukajiri 54位  
 2024-11-11 [The 2024 ICPC Asia Taichung Regional](https://icpc.global/regionals/finder/Taipei-2025/standings) kotamanegi_marukajiri 24位  
-2024-07-05 [ICPC 2024 国内予選](https://icpc.iisf.or.jp/2024-yokohama/domestic/icpc-2024-result/) kotamanegi_marukajiri 78位  
-2024-03-24 [DDCC2024](https://special.discoveryjapan.jp/campaign/ddcc2024/) 23位  
+2024-07-05 [ICPC 2024 国内予選](https://icpc.jp/2024/domestic/results/) kotamanegi_marukajiri 78位  
+2024-03-24 [DDCC2024](https://special.discoveryjapan.jp/campaign/ddcc2024/) shogo31416 23位  
 2023-11-26 [ICPC 2023 Asia Yokohama Regional](https://icpc.global/regionals/finder/Yokohama-2024/standings) KSS908111314 30位  
-2023-07-07 [ICPC 2023 国内予選](https://icpc.iisf.or.jp/2023-yokohama/domestic/icpc-2023-result/) KSS908111314 17位  
-2022-07-08 [ICPC 2022 国内予選](https://icpc.iisf.or.jp/2022-yokohama/domestic-results/) handai_C 111位  
-2021-11-05 [ICPC 2021 国内予選](https://icpc.iisf.or.jp/2021-yokohama/standings/) Benzenediazonium chloride 89位  
+2023-07-07 [ICPC 2023 国内予選](https://icpc.jp/2023/domestic/results/) KSS908111314 17位  
+2022-07-08 [ICPC 2022 国内予選](https://icpc.jp/2022/domestic/results/) handai_C 111位  
+2021-11-05 [ICPC 2021 国内予選](https://icpc.jp/2021/domestic/results/) Benzenediazonium chloride 89位  
