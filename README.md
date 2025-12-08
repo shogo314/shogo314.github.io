@@ -87,7 +87,7 @@ Markov Algorithm Online: [shogo314](https://mao.snuke.org/users/shogo314)
 CpawCTF: shogo314  
 
 # 競技プログラミングで得た賞品・賞金
-2025-12-07 [ICPC 2023 Asia Yokohama Regional](https://icpc.global/regionals/finder/Yokohama-2024/standings) The Revenge of take000 49位 フィックスターズ賞 Fixtarsパーカー／ノベルティセット（マグカップ、クリアファイル、ボールペン、ステッカー）  
+2025-12-07 [ICPC 2025 Asia Yokohama Regional](https://icpcsec.firebaseapp.com/standings/) The Revenge of take000 49位 フィックスターズ賞 Fixtarsパーカー／ノベルティセット（マグカップ、クリアファイル、ボールペン、ステッカー）  
 2024-11-27 [TechFUL Coding Battle ～2024年11月回～](https://techful-programming.com/techful/event/6691) 13位 Python賞 アマゾンギフトカード500円  
 2024-10-27 [Single Problem Contest merge_martian_colonies](https://pythoncode.club/problems/merge_martian_colonies) 1位 0.02XMR  
 2024-09-21 [TechFUL 競技プログラミング駅伝 2024](https://ekiden2024.event.techful-programming.com/) kotamanegi_daisuki_club 6位 参加賞 アマゾンギフトカード500円  
@@ -101,7 +101,7 @@ CpawCTF: shogo314
 2022-07-08 [ICPC 2022 国内予選](https://icpc.iisf.or.jp/2022-yokohama/domestic-results/) handai_C 111位 レトリバ賞 Tシャツ / USB Type C変換コネクタ / ステッカー / クリアファイル  
 
 # 競技プログラミングの主な戦績
-2025-12-07 [ICPC 2023 Asia Yokohama Regional](https://icpc.global/regionals/finder/Yokohama-2024/standings) The Revenge of take000 49位  
+2025-12-07 [ICPC 2025 Asia Yokohama Regional](https://icpcsec.firebaseapp.com/standings/) The Revenge of take000 49位  
 2025-07-04 [ICPC 2025 国内予選](https://icpc.jp/2025/domestic/results/) The Revenge of take000 46位  
 2025-03-01 [The 2025 ICPC Asia Pacific Championship](https://icpc.global/regionals/finder/APSEPC-2025/standings) kotamanegi_marukajiri 54位  
 2024-11-11 [The 2024 ICPC Asia Taichung Regional](https://icpc.global/regionals/finder/Taipei-2025/standings) kotamanegi_marukajiri 24位  
