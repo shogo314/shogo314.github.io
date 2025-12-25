@@ -5,7 +5,7 @@
 - [競プロ多言語コミュニティ](https://discord.com/invite/3DdtAvb3vS)
 いろんなプログラミング言語やマイナー言語に触れてみたい競プロerのためのDiscordサーバーを作りました！
 興味がある方はぜひ参加して、一緒に情報交換しましょう！
-- [ac-library-mojo](https://shogo314.github.io/ac-library-mojo) [ac-library](https://github.com/atcoder/ac-library) の Mojo 版を作りました！使ってね
+- [ac-library-mojo](https://shogo314.github.io/ac-library-mojo) [ac-library](https://github.com/atcoder/ac-library) の [Mojo](https://www.modular.com/mojo) 版を作りました！使ってね
 - [ICPC Replay](https://icpc-replay.vercel.app/) ICPCでの順位の時間推移をグラフにする
 - [Rosetta Problems](https://rosetta-problems-dev.vercel.app) 競プロの問題について様々なコンテストサイトのジャッジを教えてくれる
 - [Procon Notification](https://procon-notification.vercel.app/) 様々な競技プログラミングコンテストを表示します。日本人向けの [CLIST](https://clist.by/) を作りたい
@@ -88,6 +88,8 @@ CpawCTF: shogo314
 
 # 競技プログラミングで得た賞品・賞金
 2025-12-07 [ICPC 2025 Asia Yokohama Regional](https://icpcsec.firebaseapp.com/standings/) The Revenge of take000 49位 フィックスターズ賞 Fixtarsパーカー／ノベルティセット（マグカップ、クリアファイル、ボールペン、ステッカー）  
+2025-11-29 [Ｓｋｙ株式会社プログラミングコンテスト2025（AtCoder Beginner Contest 434）](https://atcoder.jp/contests/abc434) 366位 抽選 アマゾンギフトカード20000円  
+2023-11-07 [HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）](https://atcoder.jp/contests/ahc056) 152位 就活生賞 アマゾンギフトカード5000円 / 記念グッズ  
 2024-11-27 [TechFUL Coding Battle ～2024年11月回～](https://techful-programming.com/techful/event/6691) 13位 Python賞 アマゾンギフトカード500円  
 2024-10-27 [Single Problem Contest merge_martian_colonies](https://pythoncode.club/problems/merge_martian_colonies) 1位 0.02XMR  
 2024-09-21 [TechFUL 競技プログラミング駅伝 2024](https://ekiden2024.event.techful-programming.com/) kotamanegi_daisuki_club 6位 参加賞 アマゾンギフトカード500円  
