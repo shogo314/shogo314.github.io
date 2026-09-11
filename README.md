@@ -63,9 +63,6 @@ CodeAny: [shogo314](https://codeany.org/en/users/shogo314)
 <!-- Kattis: [shogo314](https://open.kattis.com/users/shogo314)   -->
 Hamako Online Judge: [shogo314](https://hoj.hamako-ths.ed.jp/onlinejudge/users/id/1321)  
 MarisaOJ: [shogo314](https://marisaoj.com/user/shogo314/submissions)  
-kaggle: [shogo314](https://www.kaggle.com/shogo314)  
-Qookbook: shogo314  
-QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
 <!-- TechFUL: shogo314   -->
 <!-- TOPSIC SQL CONTEST: shogo314   -->
 CSES: [shogo314](https://cses.fi/user/217582/)  
@@ -73,7 +70,11 @@ beecrowd: [shogo314](https://judge.beecrowd.com/en/profile/1059516)
 Algotester: [shogo314](https://algotester.com/en/Account/Display/722090)  
 Kilonova: [shogo314](https://kilonova.ro/profile/shogo314)  
 Repovive: [shogo314](https://repovive.com/users/692e6ed1e5af652a1e806441)  
+DOJ: [shogo314](https://doj.kr/ja/user/cmtog6p8h5h4x12e68q9w1pp7)  
 exercism: [shogo314](https://exercism.org/profiles/shogo314)  
+kaggle: [shogo314](https://www.kaggle.com/shogo314)  
+Qookbook: shogo314  
+QCoder: [shogo314](https://www.qcoder.jp/users/shogo314)  
 
 CLIST: [shogo314](https://clist.by/coder/shogo314/)
 
@@ -85,6 +86,7 @@ Online X Contest: [shogo314](https://www.iswao-onlinexcontest.com/user/index.php
 Herbert Online Judge: [shogo314](http://herbert.tealang.info/user.php?id=shogo314)  
 Markov Algorithm Online: [shogo314](https://mao.snuke.org/users/shogo314)  
 CpawCTF: shogo314  
+Spaghetti Network: [shogo314](https://spa-net.com/users/d4s4tbj6ya7t)  
 
 # 競技プログラミングで得た賞品・賞金
 2025-12-07 [ICPC 2025 Asia Yokohama Regional](https://icpcsec.firebaseapp.com/standings/) The Revenge of take000 49位 フィックスターズ賞 Fixtarsパーカー／ノベルティセット（マグカップ、クリアファイル、ボールペン、ステッカー）  
