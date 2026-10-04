@@ -171,6 +171,9 @@
     - site: DOJ
       user: shogo314
       url: https://doj.kr/ja/user/cmtog6p8h5h4x12e68q9w1pp7
+    - site: SamCoding
+      user: shogo314
+      url: https://samcoding.uz/profile/shogo314
     - site: exercism
       user: shogo314
       url: https://exercism.org/profiles/shogo314
