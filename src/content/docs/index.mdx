@@ -1,0 +1,64 @@
+---
+title: shogo314
+description: shogo314 の個人サイト。作ったもの、競技プログラミングの戦績、各種アカウント。
+template: splash
+hero:
+  tagline: 奈良先端科学技術大学院大学の学生です。競技プログラミングをしています。
+  image:
+    alt: ガウス素数を並べたアイコン
+    file: ../../assets/icon.svg
+  actions:
+    - text: 作ったもの
+      link: /projects/
+      icon: right-arrow
+    - text: 戦績・受賞
+      link: /results/
+      icon: right-arrow
+      variant: secondary
+    - text: アカウント一覧
+      link: /accounts/
+      variant: minimal
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+import ResultsTable from '../../components/ResultsTable.astro';
+
+## よく使うアカウント
+
+<CardGrid>
+	<LinkCard title="AtCoder" description="shogo314" href="https://atcoder.jp/users/shogo314" />
+	<LinkCard title="Codeforces" description="shogo314" href="https://codeforces.com/profile/shogo314" />
+	<LinkCard title="GitHub" description="shogo314" href="https://github.com/shogo314" />
+	<LinkCard title="X" description="@shogo3142" href="https://x.com/shogo3142" />
+	<LinkCard title="はてなブログ" description="shogo314.hatenablog.com" href="https://shogo314.hatenablog.com/" />
+	<LinkCard title="CLIST" description="各ジャッジのレーティングまとめ" href="https://clist.by/coder/shogo314/" />
+</CardGrid>
+
+## 作ったもの
+
+<CardGrid>
+	<Card title="競プロ多言語コミュニティ" icon="discord">
+		いろんな言語に触れてみたい競プロerのための Discord サーバー。
+		[参加する](https://discord.com/invite/3DdtAvb3vS)
+	</Card>
+	<Card title="ac-library-mojo" icon="seti:code-search">
+		AtCoder Library の Mojo 版。
+		[ドキュメント](https://shogo314.github.io/ac-library-mojo)
+	</Card>
+	<Card title="ICPC Replay" icon="random">
+		ICPC の順位の時間推移をグラフにする。
+		[開く](https://icpc-replay.vercel.app/)
+	</Card>
+	<Card title="Procon Notification" icon="information">
+		様々な競プロコンテストを一覧表示する。
+		[開く](https://procon-notification.vercel.app/)
+	</Card>
+</CardGrid>
+
+[すべて見る →](/projects/)
+
+## 主な戦績
+
+<ResultsTable majorOnly limit={5} />
+
+[すべての戦績・受賞を見る →](/results/)

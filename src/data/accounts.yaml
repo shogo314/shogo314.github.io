@@ -1,0 +1,212 @@
+# アカウント一覧。url がないものはリンクなしで表示する
+
+- category: SNS など
+  items:
+    - site: X
+      user: shogo3142
+      url: https://x.com/shogo3142
+    - site: GitHub
+      user: shogo314
+      url: https://github.com/shogo314
+    - site: はてなブログ
+      user: shogo314
+      url: https://shogo314.hatenablog.com/
+    - site: Qiita
+      user: shogo314
+      url: https://qiita.com/shogo314
+    - site: YouTube
+      user: shogo3142
+      url: https://www.youtube.com/@shogo3142
+    - site: misskey.kyoupro.com
+      user: shogo314
+      url: https://misskey.kyoupro.com/@shogo314
+    - site: misskey.io
+      user: shogo314
+      url: https://misskey.io/@shogo314
+    - site: mstdn.jp
+      user: shogo314
+      url: https://mstdn.jp/@shogo314
+    - site: Bluesky
+      user: shogo314.bsky.social
+      url: https://bsky.app/profile/shogo314.bsky.social
+    - site: connpass
+      user: shogo3142
+      url: https://connpass.com/user/shogo3142/
+    - site: Telegram
+      user: shogo314
+      url: https://t.me/shogo314
+    - site: Greasy Fork
+      user: "1322710-shogo314"
+      url: https://greasyfork.org/ja/users/1322710-shogo314
+    - site: TellPro
+      user: shogo314
+      url: https://www.tellpro.net/shogo314
+    - site: Gomamayo Share
+      user: shogo314
+    - site: Twitch
+      user: shogo3142
+      url: https://www.twitch.tv/shogo3142
+    - site: Gravatar
+      user: shogo314
+      url: https://gravatar.com/shogo314
+- category: 競技プログラミング
+  items:
+    - site: AtCoder
+      user: shogo314
+      url: https://atcoder.jp/users/shogo314
+    - site: Codeforces
+      user: shogo314
+      url: https://codeforces.com/profile/shogo314
+    - site: CodeChef
+      user: shogo314
+      url: https://www.codechef.com/users/shogo314
+    - site: LeetCode
+      user: shogo314
+      url: https://leetcode.com/shogo314/
+    - site: yukicoder
+      user: shogo314
+      url: https://yukicoder.me/users/18946
+    - site: Topcoder
+      user: shogo314
+      url: https://profiles.topcoder.com/shogo314
+    - site: KEP.uz
+      user: shogo314
+      url: https://kep.uz/users/user/shogo314
+    - site: DMOJ
+      user: shogo314
+      url: https://dmoj.ca/user/shogo314
+    - site: GeeksforGeeks
+      user: shogo314
+      url: https://auth.geeksforgeeks.org/user/shogo314/
+    # - site: 洛谷
+    #   user: shogo314
+    #   url: https://www.luogu.com.cn/user/1193048
+    - site: AcWing
+      user: shogo314
+      url: https://www.acwing.com/user/myspace/index/380439/
+    - site: Toph
+      user: shogo314
+      url: https://toph.co/u/shogo314
+    - site: solved.ac
+      user: shogo314
+      url: https://solved.ac/ja/profile/shogo314
+    - site: PythonCode.Club
+      user: shogo314
+      url: https://pythoncode.club/user/65aa0ae2ec2e280a43b43daf
+    - site: Newton School
+      user: shogo314
+      url: https://my.newtonschool.co/user/shogo314
+    - site: Coding Ninjas
+      user: shogo314
+      url: https://www.codingninjas.com/studio/profile/shogo314
+    - site: HackerRank
+      user: shogo314
+      url: https://www.hackerrank.com/profile/shogo314
+    - site: HackerEarth
+      user: shogo314
+      url: https://www.hackerearth.com/@shogo314
+    - site: AIZU ONLINE JUDGE
+      user: shogo314
+      url: https://onlinejudge.u-aizu.ac.jp/status/users/shogo314
+    - site: MojaCoder
+      user: shogo314
+      url: https://mojacoder.app/users/shogo314
+    - site: MOFE
+      user: shogo314
+    - site: Library Checker
+      user: shogo314
+      url: https://judge.yosupo.jp/user/shogo314
+    - site: CodinGame
+      user: shogo314
+      url: https://www.codingame.com/profile/d4bc5554ab769a08a4f47ba630b7f7b79565785
+    - site: VNOJ
+      user: shogo314
+      url: https://oj.vnoi.info/user/shogo314
+    - site: TLX
+      user: shogo314
+      url: https://tlx.toki.id/profiles/shogo314
+    - site: CodeDrills
+      user: shogo314
+      url: https://codedrills.io/profiles/shogo314
+    - site: Eolymp
+      user: shogo314
+      url: https://basecamp.eolymp.com/ja/users/shogo314
+    - site: 牛客
+      user: shogo314
+      url: https://ac.nowcoder.com/acm/contest/profile/635190268
+    - site: algoleague
+      user: shogo314
+      url: https://algoleague.com/profile/shogo314/
+    - site: CodeAny
+      user: shogo314
+      url: https://codeany.org/en/users/shogo314
+    # - site: Kattis
+    #   user: shogo314
+    #   url: https://open.kattis.com/users/shogo314
+    - site: Hamako Online Judge
+      user: shogo314
+      url: https://hoj.hamako-ths.ed.jp/onlinejudge/users/id/1321
+    - site: MarisaOJ
+      user: shogo314
+      url: https://marisaoj.com/user/shogo314/submissions
+    # - site: TechFUL
+    #   user: shogo314
+    # - site: TOPSIC SQL CONTEST
+    #   user: shogo314
+    - site: CSES
+      user: shogo314
+      url: https://cses.fi/user/217582/
+    - site: beecrowd
+      user: shogo314
+      url: https://judge.beecrowd.com/en/profile/1059516
+    - site: Algotester
+      user: shogo314
+      url: https://algotester.com/en/Account/Display/722090
+    - site: Kilonova
+      user: shogo314
+      url: https://kilonova.ro/profile/shogo314
+    - site: Repovive
+      user: shogo314
+      url: https://repovive.com/users/692e6ed1e5af652a1e806441
+    - site: DOJ
+      user: shogo314
+      url: https://doj.kr/ja/user/cmtog6p8h5h4x12e68q9w1pp7
+    - site: exercism
+      user: shogo314
+      url: https://exercism.org/profiles/shogo314
+    - site: kaggle
+      user: shogo314
+      url: https://www.kaggle.com/shogo314
+    - site: Qookbook
+      user: shogo314
+    - site: QCoder
+      user: shogo314
+      url: https://www.qcoder.jp/users/shogo314
+    - site: CLIST
+      user: shogo314
+      url: https://clist.by/coder/shogo314/
+- category: その他
+  items:
+    - site: Project Euler
+      user: shogo314
+      url: https://projecteuler.net/progress=shogo314
+    - site: OnlineMathContest
+      user: shogo314
+      url: https://onlinemathcontest.com/users/shogo314
+    - site: Shitforces
+      user: shogo314
+      url: https://shitforces.herokuapp.com/account/shogo314
+    - site: Online X Contest
+      user: shogo314
+      url: https://www.iswao-onlinexcontest.com/user/index.php?id=311
+    - site: Herbert Online Judge
+      user: shogo314
+      url: http://herbert.tealang.info/user.php?id=shogo314
+    - site: Markov Algorithm Online
+      user: shogo314
+      url: https://mao.snuke.org/users/shogo314
+    - site: CpawCTF
+      user: shogo314
+    - site: Spaghetti Network
+      user: shogo314
+      url: https://spa-net.com/users/d4s4tbj6ya7t

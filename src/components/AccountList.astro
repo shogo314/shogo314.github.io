@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+	/** accounts.yaml の category 名 */
+	category: string;
+}
+
+const { category } = Astro.props;
+
+const group = (await getCollection('accounts')).find((entry) => entry.data.category === category);
+if (!group) throw new Error(`accounts.yaml にカテゴリ「${category}」がありません`);
+---
+
+<table>
+	<thead>
+		<tr>
+			<th>サイト</th>
+			<th>ID</th>
+		</tr>
+	</thead>
+	<tbody>
+		{
+			group.data.items.map((a) => (
+				<tr>
+					<td>{a.site}</td>
+					<td>{a.url ? <a href={a.url}>{a.user}</a> : a.user}</td>
+				</tr>
+			))
+		}
+	</tbody>
+</table>

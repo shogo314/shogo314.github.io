@@ -1,0 +1,61 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+	/** true なら major: true の戦績だけを表示する */
+	majorOnly?: boolean;
+	/** 表示する最大件数 */
+	limit?: number;
+}
+
+const { majorOnly = false, limit } = Astro.props;
+
+const results = (await getCollection('results'))
+	.map((entry) => entry.data)
+	.filter((r) => !majorOnly || r.major)
+	.sort((a, b) => b.date.getTime() - a.date.getTime())
+	.slice(0, limit);
+
+const formatDate = (date: Date) => date.toISOString().slice(0, 10);
+---
+
+<table class:list={{ full: !majorOnly }}>
+	<thead>
+		<tr>
+			<th>日付</th>
+			<th>コンテスト</th>
+			<th>チーム</th>
+			<th>順位</th>
+			{!majorOnly && <th>賞</th>}
+		</tr>
+	</thead>
+	<tbody>
+		{
+			results.map((r) => (
+				<tr>
+					<td class="nowrap">{formatDate(r.date)}</td>
+					<td>{r.url ? <a href={r.url}>{r.contest}</a> : r.contest}</td>
+					<td>{r.team}</td>
+					<td class="nowrap">{r.rank}位</td>
+					{!majorOnly && <td class="prize">{r.prize}</td>}
+				</tr>
+			))
+		}
+	</tbody>
+</table>
+
+<style>
+	.nowrap {
+		white-space: nowrap;
+	}
+	.prize {
+		min-width: 14em;
+	}
+</style>
+
+<style is:global>
+	/* 賞の列まで表示する表があるページは、本文の幅を広げる */
+	:root:has(table.full) {
+		--sl-content-width: 64rem;
+	}
+</style>

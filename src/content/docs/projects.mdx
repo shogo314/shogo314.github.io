@@ -1,0 +1,42 @@
+---
+title: 作ったもの
+description: shogo314 が作ったサービスやライブラリ、コミュニティ。
+---
+
+import { LinkCard, CardGrid } from '@astrojs/starlight/components';
+
+## コミュニティ
+
+<LinkCard
+	title="競プロ多言語コミュニティ"
+	description="いろんなプログラミング言語やマイナー言語に触れてみたい競プロerのための Discord サーバーです。興味がある方はぜひ参加して、一緒に情報交換しましょう！"
+	href="https://discord.com/invite/3DdtAvb3vS"
+/>
+
+## ライブラリ
+
+<LinkCard
+	title="ac-library-mojo"
+	description="AtCoder Library (ac-library) の Mojo 版です。使ってね。"
+	href="https://shogo314.github.io/ac-library-mojo"
+/>
+
+## Web サービス
+
+<CardGrid>
+	<LinkCard
+		title="ICPC Replay"
+		description="ICPC での順位の時間推移をグラフにします。"
+		href="https://icpc-replay.vercel.app/"
+	/>
+	<LinkCard
+		title="Rosetta Problems"
+		description="競プロの問題について、様々なコンテストサイトのジャッジを教えてくれます。"
+		href="https://rosetta-problems-dev.vercel.app"
+	/>
+	<LinkCard
+		title="Procon Notification"
+		description="様々な競技プログラミングコンテストを表示します。日本人向けの CLIST を目指しています。"
+		href="https://procon-notification.vercel.app/"
+	/>
+</CardGrid>

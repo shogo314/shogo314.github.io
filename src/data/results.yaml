@@ -1,0 +1,154 @@
+# 戦績・受賞の一覧。新しいものを上に追加する(表示時は日付順に並べ替える)
+# major: true のものは「主な戦績」としてトップページにも表示する
+
+- date: 2026-06-14
+  contest: DECC2026
+  url: https://news.mynavi.jp/techplus/lp/2026/enterprise/decc_2026/
+  rank: 35
+  major: true
+
+- date: 2025-12-07
+  contest: ICPC 2025 Asia Yokohama Regional
+  url: https://icpcsec.firebaseapp.com/standings/
+  team: The Revenge of take000
+  rank: 49
+  prize: フィックスターズ賞 Fixtarsパーカー／ノベルティセット（マグカップ、クリアファイル、ボールペン、ステッカー）
+  major: true
+
+- date: 2025-11-29
+  contest: Ｓｋｙ株式会社プログラミングコンテスト2025（AtCoder Beginner Contest 434）
+  url: https://atcoder.jp/contests/abc434
+  rank: 366
+  prize: 抽選 アマゾンギフトカード20000円
+
+# 旧 README では 2023-11-07 となっていたが、AHC056 の開催年から 2025 年と判断
+- date: 2025-11-07
+  contest: HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）
+  url: https://atcoder.jp/contests/ahc056
+  rank: 152
+  prize: 就活生賞 アマゾンギフトカード5000円 / 記念グッズ
+
+- date: 2025-07-04
+  contest: ICPC 2025 国内予選
+  url: https://icpc.jp/2025/domestic/results/
+  team: The Revenge of take000
+  rank: 46
+  major: true
+
+- date: 2025-03-01
+  contest: The 2025 ICPC Asia Pacific Championship
+  url: https://icpc.global/regionals/finder/APSEPC-2025/standings
+  team: kotamanegi_marukajiri
+  rank: 54
+  major: true
+
+- date: 2024-11-27
+  contest: TechFUL Coding Battle ～2024年11月回～
+  url: https://techful-programming.com/techful/event/6691
+  rank: 13
+  prize: Python賞 アマゾンギフトカード500円
+
+- date: 2024-11-11
+  contest: The 2024 ICPC Asia Taichung Regional
+  url: https://icpc.global/regionals/finder/Taipei-2025/standings
+  team: kotamanegi_marukajiri
+  rank: 24
+  major: true
+
+- date: 2024-10-27
+  contest: Single Problem Contest merge_martian_colonies
+  url: https://pythoncode.club/problems/merge_martian_colonies
+  rank: 1
+  prize: 0.02XMR
+
+- date: 2024-09-21
+  contest: TechFUL 競技プログラミング駅伝 2024
+  url: https://ekiden2024.event.techful-programming.com/
+  team: kotamanegi_daisuki_club
+  rank: 6
+  prize: 参加賞 アマゾンギフトカード500円
+
+- date: 2024-08-25
+  contest: CPUC Summer Contest
+  url: https://kep.uz/competitions/contests/contest/401
+  rank: 2
+  prize: 15USDT
+
+- date: 2024-08-18
+  contest: KEP Math Contest #1
+  url: https://kep.uz/competitions/contests/contest/398
+  rank: 2
+  prize: 15USDT
+
+- date: 2024-08-04
+  contest: Weekend Practice #3
+  url: https://basecamp.eolymp.com/contests/1vakgi35sp4cd24th3vp7aekqg
+  rank: 30
+  prize: Tシャツ / ステッカー
+
+- date: 2024-07-05
+  contest: ICPC 2024 国内予選
+  url: https://icpc.jp/2024/domestic/results/
+  team: kotamanegi_marukajiri
+  rank: 78
+  major: true
+
+- date: 2024-05-05
+  contest: Hack it #7
+  url: https://kep.uz/competitions/contests/contest/381
+  rank: 2
+  prize: 15USDT
+
+- date: 2024-05-05
+  contest: KEP Contest #5
+  url: https://kep.uz/competitions/contests/contest/376
+  rank: 3
+  prize: 10USDT
+
+- date: 2024-03-24
+  contest: KEP Contest #4
+  url: https://kep.uz/competitions/contests/contest/371
+  rank: 3
+  prize: 12USDT
+
+- date: 2024-03-24
+  contest: DDCC2024
+  url: https://special.discoveryjapan.jp/campaign/ddcc2024/
+  team: shogo31416
+  rank: 23
+  major: true
+
+- date: 2023-12-01
+  contest: HACK TO THE FUTURE 2024 （AtCoder Heuristic Contest 027）
+  url: https://atcoder.jp/contests/ahc027
+  rank: 273
+  prize: 参加プレゼント アマゾンギフトカード1000円
+
+- date: 2023-11-26
+  contest: ICPC 2023 Asia Yokohama Regional
+  url: https://icpc.global/regionals/finder/Yokohama-2024/standings
+  team: KSS908111314
+  rank: 30
+  major: true
+
+- date: 2023-07-07
+  contest: ICPC 2023 国内予選
+  url: https://icpc.jp/2023/domestic/results/
+  team: KSS908111314
+  rank: 17
+  major: true
+
+- date: 2022-07-08
+  contest: ICPC 2022 国内予選
+  url: https://icpc.jp/2022/domestic/results/
+  team: handai_C
+  rank: 111
+  prize: レトリバ賞 Tシャツ / USB Type C変換コネクタ / ステッカー / クリアファイル
+  major: true
+
+- date: 2021-11-05
+  contest: ICPC 2021 国内予選
+  url: https://icpc.jp/2021/domestic/results/
+  team: Benzenediazonium chloride
+  rank: 89
+  major: true
