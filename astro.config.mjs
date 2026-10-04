@@ -22,6 +22,7 @@ export default defineConfig({
 				{ label: '作ったもの', slug: 'projects' },
 				{ label: '戦績・受賞', slug: 'results' },
 				{ label: 'アカウント', slug: 'accounts' },
+				{ label: 'ブログ', link: 'https://shogo314.github.io/blog/' },
 			],
 		}),
 	],
